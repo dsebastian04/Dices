@@ -11,8 +11,6 @@ def sumDices(dices):
         s += dice
     return s
 
-help(sumDices)
-help(throwDices)
 throwDicesFlag = True
 
 while (throwDicesFlag):
