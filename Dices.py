@@ -27,4 +27,3 @@ while (throwDicesFlag):
             inputInvalid = False
         else:
             print("Input invalid. Try again")
-            continue
